@@ -32,6 +32,9 @@ github:
 twitter:
   username: hongze83 # change to your Twitter username
 
+footer:
+  powered: false
+
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
@@ -225,6 +228,3 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
-
-  footer:
-    powered: false
